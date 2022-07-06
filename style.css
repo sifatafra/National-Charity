@@ -1,0 +1,48 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-style: initial;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+
+}
+
+.background-image {
+    width: 100%;
+    margin-top: 10% 10% 5% 10%;
+
+}
+
+.background-image img {
+    width: 100%;
+    background-color: antiquewhite;
+
+}
+
+.background-text {
+    position: relative;
+    width: 100%;
+    margin-top: -60%;
+    text-align: center;
+    color: white;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: coral;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.another-para {
+    margin-top: 40%;
+    text-align: center;
+    font-size: 60%;
+}
