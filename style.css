@@ -4,6 +4,10 @@ body {
     font-style: initial;
 }
 
+.orange-color {
+    color: tomato;
+}
+
 body {
     width: 100%;
     height: 100%;
@@ -19,8 +23,11 @@ body {
 .background-image img {
     width: 100%;
     background-color: antiquewhite;
+    opacity: 1.0;
+
 
 }
+
 
 .background-text {
     position: relative;
@@ -33,16 +40,65 @@ body {
 
 .link-button {
     text-decoration: none;
-    background-color: coral;
-    padding: 10px 40px;
+    background-color: tomato;
+    padding: 10px 30px;
     color: white;
-    font-weight: 700;
-    border-radius: 5px;
-
+    font-weight: 500;
+    border-radius: 10px;
+    margin-top: 5px;
 }
 
 .another-para {
     margin-top: 40%;
     text-align: center;
     font-size: 60%;
+    margin-bottom: 8%;
+
+    color: darkolivegreen;
+}
+
+
+
+
+.bdt {
+    height: 100px;
+    width: 150px;
+    display: inline-block;
+    color: rgb(131, 146, 146);
+    font-size: 30px;
+    background-color: whitesmoke;
+    padding-top: 5%;
+
+}
+
+#color-code {
+    border: 5px solid tomato;
+    color: tomato;
+
+}
+
+section {
+    text-align: center;
+
+}
+
+.color-change {
+    color: rgb(175, 168, 137);
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 10px;
+
+
+
+}
+
+.second-para {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+h2 {
+    color: black;
+    margin-top: 15%;
 }
