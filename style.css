@@ -1,13 +1,9 @@
 body {
     font-family: 'Roboto', sans-serif;
-    font-size: 40px;
+    font-size: 30px;
+    margin: 5px 10px 5px 10px;
+    padding: 50px 80px 50px 80px;
 
-    margin-left: 40px;
-    margin-right: 60px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    padding-left: 30px;
-    padding-right: 40px;
 }
 
 .orange-color {
@@ -15,7 +11,7 @@ body {
 }
 
 body {
-    width: 100%;
+    width: 80%;
     height: 100%;
 
 }
@@ -147,9 +143,16 @@ h2 {
     color: chocolate;
 }
 
-.my-info {
+.vertical {
+
+
+    color: rgba(131, 146, 146, 0.859);
+    font-size: 20px;
+
+    padding-top: 5%;
+    margin-top: 2%;
+    margin-bottom: 5%;
     text-align: center;
-    display: inline-block;
 }
 
 footer {
@@ -157,7 +160,7 @@ footer {
 
     text-align: center;
     color: aliceblue;
-    font-size: small;
+    font-size: large;
 
 }
 
